@@ -1,9 +1,6 @@
-build
-coverage
 .eslintrc.js
 .prettierrc.json
 .prettierignore
 .gitignore
 package.json
 package-lock.json
-manifest.json
